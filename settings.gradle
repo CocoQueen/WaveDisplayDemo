@@ -1,0 +1,2 @@
+rootProject.name='WaveDisplayDemo'
+include ':app'
